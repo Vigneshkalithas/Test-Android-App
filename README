@@ -1,0 +1,72 @@
+# Digitalized Procurement App
+
+Transform your procurement process with our fully digitalized app, built with React Native, Node.js Express, and Socket.IO. Connect seamlessly with AWS for enhanced performance and scalability.
+
+## Features
+
+- **Effortless Data Submission:** Agents can easily submit procurement data through the intuitive app interface.
+- **Advanced Analytics:** Managers can analyze market trends and competitor prices with detailed graphs and insightful data.
+- **Collaborative Environment:** Enhance collaboration with in-app chats, fostering effective communication among team members.
+- **Healthy Competition:** Foster healthy competition among agents with leaderboards, driving improved performance.
+- **Streamlined Meetings and Events:** Organize and streamline meetings and events within the app for efficient communication.
+- **Simplified Reimbursement:** Simplify reimbursement processes, making financial transactions smoother and more transparent.
+
+## Technologies Used
+
+- **Frontend:** React Native
+- **Backend:** Node.js Express
+- **Real-time Communication:** Socket.IO
+- **Cloud Integration:** AWS (Amazon Web Services)
+
+## Getting Started
+
+1. **Clone the Repository:**
+
+    ```bash
+    git clone https://github.com/your-username/procurement-app.git
+    cd procurement-app
+    ```
+
+2. **Install Dependencies:**
+
+    ```bash
+    # Install frontend dependencies
+    cd frontend
+    npm install
+
+    # Install backend dependencies
+    cd ../backend
+    npm install
+    ```
+
+3. **Configure AWS Credentials:**
+    - Set up your AWS credentials for seamless cloud integration.
+
+4. **Run the App:**
+
+    ```bash
+    # Run the React Native app
+    cd frontend
+    npm start
+
+    # Run the Node.js Express backend
+    cd ../backend
+    npm start
+    ```
+
+5. **Open the App:**
+    - Open the app on your preferred emulator or physical device.
+
+## Contributing
+
+We welcome contributions! Please follow our [Contribution Guidelines](CONTRIBUTING.md) for a smooth collaboration process.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgments
+
+- Special thanks to the open-source community and the contributors who made this project possible.
+
+Feel free to reach out with any questions or issues!
